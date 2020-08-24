@@ -2,7 +2,7 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYongineer1990&count_bg=%2379C83D&title_bg=%23555555&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-[![Twitter Badge](https://img.shields.io/badge/-Tech_Blog-663399?style=Plastic&labelColor=663399&logo=Gatsby&logoColor=white&link=https://yongineer.netlify.app)](https://yongineer.netlify.app)
+[![Blog Badge](https://img.shields.io/badge/-Tech_Blog-663399?style=Plastic&labelColor=663399&logo=Gatsby&logoColor=white&link=https://yongineer.netlify.app)](https://yongineer.netlify.app)
 [![Gmail Badge](https://img.shields.io/badge/-Mail-c14438?style=flat-Plastic&logo=Gmail&logoColor=white&link=mailto:yongineer1990@gmail.com)](mailto:yongineer1990@gmail.com)
 [![Insta Badge](https://img.shields.io/badge/-Instagram-E4405F?style=flat-Plastic&logo=Instagram&logoColor=white&link=https://www.instagram.com/yongineer1990)](https://www.instagram.com/yongineer1990)
 [![Portfolio Badge](https://img.shields.io/badge/-Portfolio-000000?style=flat-Plastic&logo=Notion&logoColor=white&link=https://www.notion.so/Portfolio-145f7de75a2b4a37b3f90b1024518c87)](https://www.notion.so/Portfolio-145f7de75a2b4a37b3f90b1024518c87)
