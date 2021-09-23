@@ -8,7 +8,7 @@
 [![Portfolio Badge](https://img.shields.io/badge/-Portfolio-000000?style=flat-Plastic&logo=Notion&logoColor=white&link=https://www.notion.so/Portfolio-145f7de75a2b4a37b3f90b1024518c87)](https://www.notion.so/Portfolio-145f7de75a2b4a37b3f90b1024518c87)
 
 반갑습니다 Backend Engineer 백용진입니다 😃
-아직 모르는것이 많아 매일 공부하고 있으며 항상 새로운것을 알아가는 재미에 살고 있습니다. 
+아직 모르는것이 많아 매일 공부하고 있으며 항상 새로운것을 알아가는 재미에 살고 있습니다.
 ## ⚡ Technologies
 - Python
 - Django Rest Framework
@@ -20,3 +20,4 @@
 - HTML / CSS3
 
 ![Yongineer github stats](https://github-readme-stats.vercel.app/api?username=yongineer1990&hide=["issues"]&show_icons=true)
+[![Yongineer wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=yongineer1990&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
