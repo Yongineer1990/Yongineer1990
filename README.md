@@ -20,4 +20,4 @@
 - HTML / CSS3
 
 ![Yongineer github stats](https://github-readme-stats.vercel.app/api?username=yongineer1990&hide=["issues"]&show_icons=true)
-[![Yongineer wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=yongineer1990&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Yongineer wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=yongineer1990&layout=compact)
