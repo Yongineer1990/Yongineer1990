@@ -12,7 +12,10 @@
 ## ⚡ Technologies
 - Python
 - Django Rest Framework
+- FastAPI
 - MySQL
+- DynamoDB
+- MongoDB
 - RESTful HTTP
 - Amazon AWS
 - Docker
