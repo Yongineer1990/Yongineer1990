@@ -11,10 +11,10 @@
 아직 모르는것이 많아 매일 공부하고 있으며 항상 새로운것을 알아가는 재미에 살고 있습니다.
 ## ⚡ Technologies
 - Python
-- Django Rest Framework
+- Django & DRF
+- Flask
 - FastAPI
 - MySQL
-- DynamoDB
 - MongoDB
 - RESTful HTTP
 - Amazon AWS
