@@ -22,5 +22,5 @@
 - Git / Github
 - HTML / CSS3
 
-![Yongineer github stats](https://github-readme-stats.vercel.app/api?username=yongineer1990&hide=[%22issues%22]&show_icons=true&count_private=true)
+![Yongineer github stats](https://my-github-readme-stats-4ztm.vercel.app/api?username=yongineer1990&hide=[%22issues%22]&show_icons=true&count_private=true)
 [![Yongineer wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@yongineer1990&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
