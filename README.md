@@ -1,6 +1,6 @@
 <h2> Print('Hello, Yogineer!') <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYongineer1990&count_bg=%2379C83D&title_bg=%23555555&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![hits](https://myhits.vercel.app/api/hit/https%3A%2F%2Fgithub.com%2FYongineer1990?color=blue&label=hits&size=large)](https://myhits.vercel.app)
 
 [![Blog Badge](https://img.shields.io/badge/-Tech_Blog-663399?style=Plastic&labelColor=663399&logo=Gatsby&logoColor=white&link=https://yongineer.netlify.app)](https://yongineer.netlify.app)
 [![Gmail Badge](https://img.shields.io/badge/-Mail-c14438?style=flat-Plastic&logo=Gmail&logoColor=white&link=mailto:yongineer1990@gmail.com)](mailto:yongineer1990@gmail.com)
